@@ -1,1 +1,1 @@
-# Faro-player
+# Faro-player is easy music player app
